@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What spell is used to summon objects?",
+        "options": ["Expelliarmus", "Accio", "Lumos", "Alohomora"],
+        "answer": "Accio"
+    },
+    {
+        "question": "Who is the ghost of Gryffindor house?",
+        "options": ["Nearly Headless Nick", "The Grey Lady", "The Bloody Baron", "Peeves"],
+        "answer": "Nearly Headless Nick"
+    }
+]
